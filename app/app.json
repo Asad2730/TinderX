@@ -5,6 +5,7 @@
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
+    "fastRefresh": true,
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
