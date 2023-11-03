@@ -43,11 +43,13 @@ const styles = StyleSheet.create({
     borderRadius: 50,
     borderColor:Colors.white,
     borderWidth: 1,
+    marginTop:10,
   },
   button: {
     justifyContent: 'center',
     alignItems: 'center',
     borderRadius: 50,
+    
   },
   buttonPressed: {
     alignItems: 'center',

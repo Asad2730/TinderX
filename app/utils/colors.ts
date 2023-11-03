@@ -7,6 +7,6 @@ export const Colors = {
     btn_color_shade_1:'#ea457e',
     btn_color_shade_2:'#ee7c61',
     btn_color_shade_3:'#ec606f',
-    white:'#ffffff',
+    white:'#FFFFFF',
     light_white:'#fdeaee'
 }
